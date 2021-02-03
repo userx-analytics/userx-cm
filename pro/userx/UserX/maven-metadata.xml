@@ -3,10 +3,11 @@
   <groupId>pro.userx</groupId>
   <artifactId>UserX</artifactId>
   <versioning>
-    <release>3.1.2</release>
+    <release>3.1.4_cm</release>
     <versions>
       <version>3.1.2</version>
+      <version>3.1.4_cm</version>
     </versions>
-    <lastUpdated>20210128053934</lastUpdated>
+    <lastUpdated>20210203090228</lastUpdated>
   </versioning>
 </metadata>
