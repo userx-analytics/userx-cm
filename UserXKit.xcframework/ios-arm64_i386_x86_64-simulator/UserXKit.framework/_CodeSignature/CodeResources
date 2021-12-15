@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zc+AN+6UjS46mJ4uaZ9OSYPMMDA=
+		92etXwXOCqFtSeYtpddVpOgiF5M=
 		</data>
 		<key>Modules/UserXKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -94,11 +94,7 @@
 		</data>
 		<key>UserX.jpg</key>
 		<data>
-		oAWZLvc8N4Z39+C8Ff1vNtCyrIQ=
-		</data>
-		<key>ZTK8A4N6.sec</key>
-		<data>
-		c1KhW6GPPmuASCUw+XRIaZzBOnE=
+		0vPzDk8/+Bqck6Uk9bxHuvEtpfU=
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
@@ -109,6 +105,10 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>f5889ba2.sec</key>
+		<data>
+		N1t0hmoZeWoLX5D9SNcxRLwq4Vg=
+		</data>
 		<key>ru.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -356,22 +356,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oAWZLvc8N4Z39+C8Ff1vNtCyrIQ=
+			0vPzDk8/+Bqck6Uk9bxHuvEtpfU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Kqb9DeCBfS1HJBlTGAQsmpAHzwDE4Mm1OQCgj8jwjOI=
-			</data>
-		</dict>
-		<key>ZTK8A4N6.sec</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			c1KhW6GPPmuASCUw+XRIaZzBOnE=
-			</data>
-			<key>hash2</key>
-			<data>
-			NDURUQPk2DU9bjMlwFCDBiNnNjvvlgnpicfESru+CDc=
+			LrR2J3vExOqGE/AyCA1eVzJu2vgxkcpMAvHgAfAzONw=
 			</data>
 		</dict>
 		<key>en.lproj/Localizable.strings</key>
@@ -386,6 +375,17 @@
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>f5889ba2.sec</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			N1t0hmoZeWoLX5D9SNcxRLwq4Vg=
+			</data>
+			<key>hash2</key>
+			<data>
+			0Z30IcZx6dz3uLrlORwkUkiuMvPw58LlgbfX/d7DpJg=
+			</data>
 		</dict>
 		<key>ru.lproj/Localizable.strings</key>
 		<dict>
